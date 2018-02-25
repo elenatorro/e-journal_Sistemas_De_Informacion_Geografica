@@ -1,15 +1,15 @@
-# Stats
+# Estadísticas
 
-## Legend
-* 0: Not Completed
-* 1: Completed
+## Leyenda
+* 0: Sin completar
+* X: Completado
 
 ---
 
-COURSE 00000000000000000000000000000
+COURSE XX000000000000000000000000000
 
-LESSON 1
-LESSON 2
+LESSON 1 X
+LESSON 2 X
 LESSON 3
 LESSON 4
 LESSON 5
